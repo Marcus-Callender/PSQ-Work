@@ -1,0 +1,18 @@
+___Naming Conventions___
+sprites = spr_
+objects = obj_
+ect
+
+workspace = gameMaker using GML language
+
+Put the button in rm_menu
+and make the event of clickng the button call event_user(0),
+then put the code for what the button dose when clicked in
+add event > other > user defined > user 0
+(This will let me call it externaly) 
+
+Liam = Options
+Kevin = Exit
+Hussnain = Game
+Shaunie = Leaderboard (scores)
+
